@@ -1,0 +1,16 @@
+
+   DigLib::MLang
+ =================
+
+  This module is used to provide multi-lingue interface over the
+DigLib family of tools. Unless you are using some DigLib tool, or
+developing some DigLib extension, you don't need it!
+
+
+   Authors
+ ===========
+
+    Alberto M. Simões   (albie@alfarrabio.di.uminho.pt)
+
+
+
